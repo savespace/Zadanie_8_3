@@ -1,0 +1,32 @@
+{
+  "name": "skrypt-js",
+  "version": "1.0.0",
+  "description": "Pierwszy skrypt js",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "scripts": {
+    "test": "skrypt-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/savespace/Zadanie_8_3.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Krzysztof Zielonka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savespace/Zadanie_8_3/issues"
+  },
+  "homepage": "https://github.com/savespace/Zadanie_8_3#readme"
+}
